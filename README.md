@@ -1,4 +1,4 @@
-# StereoX Media Player
+# StereoX Media Player Created by Secret Society
 
 > **Alpha release – active development.**  
 > Core feature set is complete; polish, packaging & final QA targeted for 2026.
