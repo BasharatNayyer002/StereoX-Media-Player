@@ -5,6 +5,15 @@
 
 A lightweight yet feature-rich desktop media player with multiple UI modes, real-time effects, and extensive keyboard / tray control.
 
+## System Requirements
+
+| Component | Minimum Specification |
+|-----------|-----------------------|
+| **OS** | Windows 7 → Windows 11 64-bit (Windows 7 build is experimental and not fully tested) |
+| **CPU** | Intel Core 2 Quad (or AMD Phenom X4 equivalent) – 4 physical cores @ 2.4 GHz |
+| **RAM** | 6 GB dual-channel DDR3/DDR4 |
+| **Hard Drive** | 500 MB – 1 GB free space (size may grow as new features are added during development) |
+
 ## Key Features
 
 - **Dual Interface Modes**
